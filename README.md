@@ -29,5 +29,5 @@
 2. 필수 패키지 설치:
   `pip install PyQt5 requests bs4`
 4. 프로그램 실행:
-  - 윈도우 환경에서 `main.pyw` 파일을 **더블 클릭**하여 바로 실행하거나,
-  - 터미널에서 `python main.pyw` (또는 `pythonw main.pyw`)를 입력하여 실행합니다.
+   * 윈도우 환경에서 `main.pyw` 파일을 **더블 클릭**하여 바로 실행하거나,
+   * 터미널에서 `python main.pyw` (또는 `pythonw main.pyw`)를 입력하여 실행합니다.
